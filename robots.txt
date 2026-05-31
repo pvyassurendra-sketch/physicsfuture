@@ -1,0 +1,5 @@
+# www.PhysicsFuture.com — allow Google and all search engines
+User-agent: *
+Allow: /
+
+Sitemap: https://www.physicsfuture.com/sitemap.xml

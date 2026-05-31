@@ -1,0 +1,12 @@
+{
+  "name": "www-physics-future",
+  "version": "1.0.0",
+  "description": "www.PhysicsFuture.com — IIT-JEE & NEET tutoring platform",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
